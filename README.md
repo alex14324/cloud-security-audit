@@ -1,5 +1,4 @@
-# Cloud Security Audit [![CircleCI](https://circleci.com/gh/Appliscale/cloud-security-audit.svg?style=svg)](https://circleci.com/gh/Appliscale/cloud-security-audit) [![Release](https://img.shields.io/github/release/Appliscale/cloud-security-audit.svg?style=flat-square)](https://github.com/Appliscale/cloud-security-audit/releases/latest)  [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](https://github.com/Appliscale/cloud-security-audit/blob/master/LICENSE.md)  [![Go_Report_Card](https://goreportcard.com/badge/github.com/Appliscale/cloud-security-audit?style=flat-square&fuckgithubcache=1)](https://goreportcard.com/report/github.com/Appliscale/cloud-security-audit) [![GoDoc](https://godoc.org/github.com/Appliscale/cloud-security-audit?status.svg)](https://godoc.org/github.com/Appliscale/cloud-security-audit)
-
+# Cloud Security Audit 
 A command line security audit tool for Amazon Web Services
 
 ## About
@@ -118,14 +117,3 @@ You can find more about securing your S3's in the following documentations:
  2. https://docs.aws.amazon.com/AmazonS3/latest/dev/ServerLogs.html
  3. https://docs.aws.amazon.com/AmazonS3/latest/user-guide/server-access-logging.html
  
-## License
-
-[Apache License 2.0](LICENSE)
-
-## Maintainers
-
-- [Michał Połcik](https://github.com/mwpolcik)
-- [Maksymilian Wojczuk](https://github.com/maxiwoj)
-- [Piotr Figwer](https://github.com/pfigwer)
-- [Sylwia Gargula](https://github.com/SylwiaGargula)
-- [Mateusz Piwowarczyk](https://github.com/piwowarc)
